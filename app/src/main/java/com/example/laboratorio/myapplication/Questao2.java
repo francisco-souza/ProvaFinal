@@ -29,9 +29,6 @@ public class Questao2 extends AppCompatActivity {
         int nota2 = Integer.valueOf(n2.getText().toString());
         int nota3 = Integer.valueOf(n3.getText().toString());
 
-
-
-
         int media = (nota1 + nota2 + nota3) / 3;
         String res1 = "";
         int valor = 0;
